@@ -1,0 +1,8 @@
+node_modules/
+.eslintrc.js
+.env
+npm-debug.log
+bfr/env
+bfr/models
+.vs/
+*.pyc
