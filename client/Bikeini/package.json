@@ -26,7 +26,7 @@
     "@babel/preset-react": "^7.0.0",
     "@expo/samples": "2.1.1",
     "@expo/vector-icons": "^8.0.0",
-    "acorn": "^6.0.4",
+    "acorn": "^6.4.1",
     "expo": "^31.0.2",
     "prop-types": "^15.6.2",
     "react": "16.5.0",
