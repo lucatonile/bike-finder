@@ -19,7 +19,7 @@
     "express-mongo-db": "^2.0.4",
     "http-errors": "~1.6.2",
     "jade": "~1.11.0",
-    "jsonwebtoken": "8.4.0",
+    "jsonwebtoken": "9.0.0",
     "mongoose": "^5.3.11",
     "mongoose-type-email": "^1.0.9",
     "mongoose-unique-validator": "2.0.2",
